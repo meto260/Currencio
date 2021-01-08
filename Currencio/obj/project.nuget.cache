@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OoBl1YMVB5cx++7BeIwqne+BcwEaw4o/rBEeM1Zf4J/oQ9wHosriME4dlqRnxDo2lA/1TfZ1r43nknP5zfO1hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\metin.yakar\\source\\repos\\Currencio\\Currencio\\Currencio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\metin.yakar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
